@@ -25,12 +25,11 @@
  ***********************************************************************/
 
 /**
- * @file stm32f4.ld
+ * @file stm32h7.ld
  *
- * Linker script for ST STM32F7 bootloader (use first 16K of flash, and 128K RAM).
+ * Linker script for ST STM32H7 bootloader (use first 16K of flash, and 128K RAM).
  *
- * @author Uwe Hermann <uwe@hermann-uwe.de>
- * @author Stephen Caudle <scaudle@doceme.com>
+ * @author DEQUAN WANG <dequan.wang@nwowtec.com>
  */
 
 /* Define memory regions. */
